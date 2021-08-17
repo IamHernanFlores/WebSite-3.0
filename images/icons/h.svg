@@ -1,2 +1,6 @@
-<?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" version="1.1" width="512" height="512" x="0" y="0" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g><g xmlns="http://www.w3.org/2000/svg"><g><circle cx="256" cy="256" fill="#4085fa" r="256" data-original="#ff6529" style=""/></g><path d="m511.992 256.597-137.297-137.297-56.899 120.731-122.661-120.731-58 273.4 119.295 119.295c140.987-.233 255.239-114.432 255.562-255.398z" fill="#0a3f97" data-original="#e53b07" style="" class=""/><path d="m374.865 234.97v58h-.17v99.73h-58v-99.73h-121.56v99.73h-58v-273.4h58v115.67h121.56v-115.67h58v115.67z" fill="#ffffff" data-original="#f8fffb" style="" class=""/><path d="m374.86 234.97v58h-.16v99.73h-58v-99.73h-60.7v-58h60.7v-115.67h58v115.67z" fill="#ffffff" data-original="#d8d8d8" style="" class=""/></g></g></svg>
+<svg width="41" height="41" viewBox="0 0 41 41" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M20.5 41C31.8218 41 41 31.8218 41 20.5C41 9.17816 31.8218 0 20.5 0C9.17816 0 0 9.17816 0 20.5C0 31.8218 9.17816 41 20.5 41Z" fill="black" fill-opacity="0.6"/>
+<path d="M40.9994 20.5478L30.0049 9.55328L25.4486 19.2212L15.6261 9.55328L10.9816 31.4466L20.5345 40.9996C31.8245 40.9809 40.9735 31.8361 40.9994 20.5478V20.5478Z" fill="black"/>
+<path d="M30.0185 18.8159V23.4605H30.0049V31.4466H25.3604V23.4605H15.6261V31.4466H10.9816V9.55328H15.6261V18.8159H25.3604V9.55328H30.0049V18.8159H30.0185Z" fill="white"/>
+<path d="M30.0181 18.8159V23.4605H30.0053V31.4466H25.3607V23.4605H20.5V18.8159H25.3607V9.55328H30.0053V18.8159H30.0181Z" fill="white"/>
+</svg>
